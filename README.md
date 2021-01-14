@@ -1,5 +1,5 @@
 This repository contains checkpoint-files for the [Sentdex/Carla-RL repository](https://github.com/Sentdex/Carla-RL).
-To successfully clone the repository you need to have [git-lfs](https://git-lfs.github.com/) installed.
+To successfully clone the repository you need to have [git-lfs](https://git-lfs.github.com/) (`sudo apt-get install git-lfs`) installed.
 
 You can extract the checkpoints using lrztar (`sudo apt-get install lrzip`):
 ```
